@@ -1,6 +1,6 @@
 # Apunts del grau de Química (UB)
 
-[Química fisica](https://github.com/542813/542813.github.io/edit/master/index.md)
+[Química fisica](https://542813.github.io/Resum CAP2 QF.pdf)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
