@@ -1,4 +1,3 @@
-# Apunts del grau de Química (UB)
 
 ## Tercer semestre
 ### Química Física I 
