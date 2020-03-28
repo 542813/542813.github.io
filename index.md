@@ -1,6 +1,6 @@
 
 ## 3r Semestre
-### Química Física I 
+### Química Física I (360772)
 
 [Capítol 2 - Substàncies pures](https://542813.github.io/Resum CAP2 QF.pdf)
 
@@ -24,7 +24,7 @@
 
 [Formulari](https://542813.github.io/Formulari QF.pdf)
 
-### Química Analítica
+### Química Analítica (360767)
 
 [Capítol 1 - Procés Analític](https://542813.github.io/Resum CAP1 QA.pdf)
 
@@ -36,7 +36,7 @@
 
 [Capítol 5 - Precipitació](https://542813.github.io/QA Capitol 5.pdf)
 
-### Química Inorgànica I
+### Química Inorgànica I (360777)
 
 [Capítol 2 - Introducció a l'estat sòlid](https://542813.github.io/Resum CAP2 QI.pdf)
 
@@ -60,7 +60,7 @@
 
 [Capítol 14 i 15 - Periodicitat dels blocs s, p i d](https://542813.github.io/QI Capitol 14 i 15.pdf)
 
-### Enginyeria Química
+### Enginyeria Química (360766)
 
 [Operacions Unitàries](https://542813.github.io/Operacions Unitaries EQ.pdf)
 
@@ -72,7 +72,7 @@
 
 [Capítol 5 - Balanç d'energia mecànica](https://542813.github.io/EQ Capitol 5.pdf)
 
-### Ciència de Materials
+### Ciència de Materials (360765)
 
 [Capítol 1 - Materials](https://542813.github.io/Resum CAP1 CM.pdf)
 
@@ -98,13 +98,13 @@
 
 ## 4t Semestre
 
-### Química Orgànica I
+### Química Orgànica I (360803)
 
 
-### Química Inorgànica II
+### Química Inorgànica II (360778)
 
 
-### Bioquímica
+### Bioquímica (360801)
 
 
-### Qualitat i Prevenció
+### Qualitat i Prevenció (361278)
