@@ -26,7 +26,7 @@
 
 ### Enginyeria Química
 
-[Operacions Unitàries](https://542813.github.io/Operacions Unitàries EQ)
+[Operacions Unitàries](https://542813.github.io/Operacions Unitaries EQ)
 
 [Capítol 2 - Balanç macroscòpic de matèria](https://542813.github.io/Resum CAP2 EQ.pdf)
 
