@@ -10,17 +10,17 @@
 
 [Capítol 5 - Dissolucions d'electròlits](https://542813.github.io/QF Capitol 5.pdf)
 
-[Capítol 6.1 - Sistemes multicomponent](https://542813.github.io/QF Capítol 6.1.pdf)
+[Capítol 6.1 - Sistemes multicomponent](https://542813.github.io/QF Capitol 6.1.pdf)
 
-[Capítol 6.2 - Propietats col·ligatives](https://542813.github.io/QF Capítol 6.2.pdf)
+[Capítol 6.2 - Propietats col·ligatives](https://542813.github.io/QF Capitol 6.2.pdf)
 
-[Capítol 6.3 - Equilibri material](https://542813.github.io/QF Capítol 6.3 ..pdf)
+[Capítol 6.3 - Equilibri material](https://542813.github.io/QF Capitol 6.3 ..pdf)
 
-[Capítol 6.4 - Equilibri electroquímic](https://542813.github.io/QF Capítol 6.4.pdf)
+[Capítol 6.4 - Equilibri electroquímic](https://542813.github.io/QF Capitol 6.4.pdf)
 
-[Capítol 7 - Interfases](https://542813.github.io/QF Capítol 7.pdf)
+[Capítol 7 - Interfases](https://542813.github.io/QF Capitol 7.pdf)
 
-[Capítol 8 - Sistemes col·loidals](https://542813.github.io/QF Capítol 8.pdf)
+[Capítol 8 - Sistemes col·loidals](https://542813.github.io/QF Capitol 8.pdf)
 
 
 
@@ -30,11 +30,11 @@
 
 [Capítol 2 - Àcids i bases](https://542813.github.io/Resum CAP2 QA.pdf)
 
-[Capítol 3 - Complexació](https://542813.github.io/Resum CAP3 QA.pdf)
+[Capítol 3 - Complexació](https://542813.github.io/QA Resum Capitol 3.pdf)
 
-[Capítol 4 - REDOX](https://542813.github.io/Resum CAP4 QA.pdf)
+[Capítol 4 - REDOX](https://542813.github.io/QA Resum Capitol 4.pdf)
 
-[Capítol 5 - Precipitació](https://542813.github.io/Resum CAP5 QA.pdf)
+[Capítol 5 - Precipitació](https://542813.github.io/QA Resum Capitol 5.pdf)
 
 ### Química Inorgànica I
 
@@ -66,11 +66,11 @@
 
 [Capítol 2 - Balanç macroscòpic de matèria](https://542813.github.io/Resum CAP2 EQ.pdf)
 
-[Capítol 3 - Balanç macroscòpic d'energia](https://542813.github.io/EQ Capítol 3.pdf)
+[Capítol 3 - Balanç macroscòpic d'energia](https://542813.github.io/EQ Capitol 3.pdf)
 
-[Capítol 4 - Reactors químics](https://542813.github.io/EQ Capítol 4.pdf)
+[Capítol 4 - Reactors químics](https://542813.github.io/EQ Capitol 4.pdf)
 
-[Capítol 5 - Balanç d'energia mecànica](https://542813.github.io/EQ Capítol 5.pdf)
+[Capítol 5 - Balanç d'energia mecànica](https://542813.github.io/EQ Capitol 5.pdf)
 
 ### Ciència de Materials
 
@@ -84,17 +84,17 @@
 
 [Capítol 5.1 - Diagrames de fase I](https://542813.github.io/Resum CAP5.1 CM.pdf)
 
-[Capítol 5.2 - Diagrames de fase II](https://542813.github.io/CM Capítol 5.2.pdf)
+[Capítol 5.2 - Diagrames de fase II](https://542813.github.io/CM Capitol 5.2.pdf)
 
-[Capítol 6 - Tractaments tèrmics](https://542813.github.io/CM Capítol 6.pdf)
+[Capítol 6 - Tractaments tèrmics](https://542813.github.io/CM Capitol 6.pdf)
 
-[Capítol 7 - Propietats mecàniques](https://542813.github.io/CM Capítol 7.pdf)
+[Capítol 7 - Propietats mecàniques](https://542813.github.io/CM Capitol 7.pdf)
 
-[Capítol 8 - Propietats elèctriques i magnètiques](https://542813.github.io/CM Capítol 8.pdf)
+[Capítol 8 - Propietats elèctriques i magnètiques](https://542813.github.io/CM Capitol 8.pdf)
 
-[Capítol 9 - Propietats tèrmiques](https://542813.github.io/CM Capítol 9.pdf)
+[Capítol 9 - Propietats tèrmiques](https://542813.github.io/CM Capitol 9.pdf)
 
-[Capítol 10 - Propietats químiques](https://542813.github.io/CM Capítol 10.pdf)
+[Capítol 10 - Propietats químiques](https://542813.github.io/CM Capitol 10.pdf)
 
 ## 4t Semestre
 
