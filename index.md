@@ -30,11 +30,11 @@
 
 [Capítol 2 - Àcids i bases](https://542813.github.io/Resum CAP2 QA.pdf)
 
-[Capítol 3 - Complexació](https://542813.github.io/QA Resum Capitol 3.pdf)
+[Capítol 3 - Complexació](https://542813.github.io/QA Capitol 3.pdf)
 
-[Capítol 4 - REDOX](https://542813.github.io/QA Resum Capitol 4.pdf)
+[Capítol 4 - REDOX](https://542813.github.io/QA Capitol 4.pdf)
 
-[Capítol 5 - Precipitació](https://542813.github.io/QA Resum Capitol 5.pdf)
+[Capítol 5 - Precipitació](https://542813.github.io/QA Capitol 5.pdf)
 
 ### Química Inorgànica I
 
@@ -52,7 +52,7 @@
 
 [Capítol 9 i 10 - Àcids i bases](https://542813.github.io/QI Capitol 9 i 10.pdf)
 
-[Capítol 11 - Complexació](https://542813.github.io/QI Capítol 11.pdf)
+[Capítol 11 - Complexació](https://542813.github.io/QI Capitol 11.pdf)
 
 [Capítol 12 - REDOX](https://542813.github.io/QI Capitol 12.pdf)
 
