@@ -46,19 +46,19 @@
 
 [Capítol 6 - Sòlids iònics](https://542813.github.io/Resum CAP6 QI.pdf)
 
-[Capítol 7 - Difracció de raigs X](https://542813.github.io/QI Capítol 7.pdf)
+[Capítol 7 - Difracció de raigs X](https://542813.github.io/QI Capitol 7.pdf)
 
-[Capítol 8 - Reaccions inorgàniques](https://542813.github.io/QI Capítol 8.pdf)
+[Capítol 8 - Reaccions inorgàniques](https://542813.github.io/QI Capitol 8.pdf)
 
-[Capítol 9 i 10 - Àcids i bases](https://542813.github.io/QI Capítol 9 i 10.pdf)
+[Capítol 9 i 10 - Àcids i bases](https://542813.github.io/QI Capitol 9 i 10.pdf)
 
 [Capítol 11 - Complexació](https://542813.github.io/QI Capítol 11.pdf)
 
-[Capítol 12 - REDOX](https://542813.github.io/QI Capítol 12.pdf)
+[Capítol 12 - REDOX](https://542813.github.io/QI Capitol 12.pdf)
 
-[Capítol 13 - Obtenció dels elements](https://542813.github.io/QI Capítol 12.pdf)
+[Capítol 13 - Obtenció dels elements](https://542813.github.io/QI Capitol 12.pdf)
 
-[Capítol 14 i 15 - Periodicitat dels blocs s, p i d](https://542813.github.io/QI Capítol 14 i 15.pdf)
+[Capítol 14 i 15 - Periodicitat dels blocs s, p i d](https://542813.github.io/QI Capitol 14 i 15.pdf)
 
 ### Enginyeria Química
 
