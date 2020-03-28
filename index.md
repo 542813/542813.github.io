@@ -12,11 +12,11 @@
 
 [Capítol 6.1 - Sistemes multicomponent](https://542813.github.io/QF Capítol 6.1.pdf)
 
-[Capítol 6.2 - Propietats col·ligatives](https://542813.github.io/QF Capítol 6.2 QF.pdf)
+[Capítol 6.2 - Propietats col·ligatives](https://542813.github.io/QF Capítol 6.2.pdf)
 
-[Capítol 6.3 - Equilibri material](https://542813.github.io/QF Capítol 6.3 QF.pdf)
+[Capítol 6.3 - Equilibri material](https://542813.github.io/QF Capítol 6.3 ..pdf)
 
-[Capítol 6.4 - Equilibri electroquímic](https://542813.github.io/QF Capítol 6.4 QF.pdf)
+[Capítol 6.4 - Equilibri electroquímic](https://542813.github.io/QF Capítol 6.4.pdf)
 
 [Capítol 7 - Interfases](https://542813.github.io/QF Capítol 7.pdf)
 
