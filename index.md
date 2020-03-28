@@ -8,7 +8,7 @@
 
 [Capítol 4 - Potencial químic i activitat](https://542813.github.io/Resum CAP4 QF.pdf)
 
-[Capítol 5 - Dissolucions d'electròlits](https://542813.github.io/QF Capítol 5.pdf)
+[Capítol 5 - Dissolucions d'electròlits](https://542813.github.io/QF Capitol 5.pdf)
 
 [Capítol 6.1 - Sistemes multicomponent](https://542813.github.io/QF Capítol 6.1.pdf)
 
