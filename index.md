@@ -22,7 +22,7 @@
 
 [Capítol 8 - Sistemes col·loidals](https://542813.github.io/QF Capitol 8.pdf)
 
-
+[Formulari](https://542813.github.io/Formulari QF.pdf)
 
 ### Química Analítica
 
