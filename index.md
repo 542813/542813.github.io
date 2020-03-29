@@ -102,7 +102,7 @@
 
 [Capítol 1 - Estructura electrònica i enllaç](https://drive.google.com/file/d/1Var7WOTxt5w0gD4ah2n7V7Ar8nd2_kLz/view?usp=sharing)
 
-[Capítol 2 - Estructura i propietats físiques dels compostos orgànics](https://542813.github.io/QO Capitol 2.pdf)
+[Capítol 2 - Estructura i propietats físiques dels compostos orgànics](https://542813.github.io/QO I Capitol 2.pdf)
 
 [Capítol 3 - Estereoquímica](https://drive.google.com/file/d/1Occ3uyxBxT1bOFCOLjswR37kctPofWhv/view?usp=sharing)
 
