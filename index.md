@@ -106,6 +106,8 @@
 
 [Capítol 3 - Estereoquímica](https://drive.google.com/file/d/1Occ3uyxBxT1bOFCOLjswR37kctPofWhv/view?usp=sharing)
 
+[Capítol 4 - Introducció a la reactivitat dels alquens](https://542813.github.io/QO I Capitol 4.pdf)
+
 ### Química Inorgànica II (360778)
 
 
