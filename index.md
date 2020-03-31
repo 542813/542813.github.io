@@ -100,7 +100,7 @@
 
 ### Química Orgànica I (360803)
 
-[Capítol 1 - Estructura electrònica i enllaç](https://drive.google.com/file/d/1Var7WOTxt5w0gD4ah2n7V7Ar8nd2_kLz/view?usp=sharing)
+[Capítol 1 - Estructura electrònica i enllaç](https://drive.google.com/file/d/1KvuS7wMBxiS4K7oyR5PuEFoRbvDw5k04/view?usp=sharing)
 
 [Capítol 2 - Estructura i propietats físiques dels compostos orgànics](https://542813.github.io/QO I Capitol 2.pdf)
 
