@@ -116,6 +116,8 @@
 
 [Capítol 3 - Simetria molecular](https://drive.google.com/file/d/1wzNPQm74e7gIK8ZmdDVQ-f9O1oIyPWBD/view?usp=sharing)
 
+[Capítol 4 - Orbitals moleculars](https://542813.github.io/QI II Capitol 4.pdf)
+
 ### Bioquímica (360801)
 
 
