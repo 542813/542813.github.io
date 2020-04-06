@@ -110,6 +110,11 @@
 
 ### Química Inorgànica II (360778)
 
+[Capítol 1 - Hidrogen](https://542813.github.io/QI II Capitol 1.pdf)
+
+[Capítol 2 - Grups 1 i 2](https://542813.github.io/QI II Capitol 2.pdf)
+
+[Capítol 3 - Simetria molecular](https://drive.google.com/file/d/1wzNPQm74e7gIK8ZmdDVQ-f9O1oIyPWBD/view?usp=sharing)
 
 ### Bioquímica (360801)
 
