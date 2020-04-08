@@ -120,5 +120,9 @@
 
 ### Bioquímica (360801)
 
+[Capítol 2 - Proteïnes](https://542813.github.io/BQ Capitol 2.pdf)
+
+[Capítol 6 - Transport de molècules a través de la membrana](https://542813.github.io/BQ Capitol 6.pdf)
+
 
 ### Qualitat i Prevenció (361278)
