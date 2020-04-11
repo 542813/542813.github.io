@@ -96,6 +96,8 @@
 
 [Capítol 10 - Propietats químiques](https://542813.github.io/CM Capitol 10.pdf)
 
+[Capítols 11,12,13 i 14 - Propietats dels materials](https://drive.google.com/file/d/1Htl-VDIQLNCZdK_zWbt-QqrEELvs-Bei/view?usp=sharing)
+
 ## 4t Semestre
 
 ### Química Orgànica I (360803)
