@@ -124,6 +124,8 @@
 
 [Capítol 2 - Proteïnes](https://542813.github.io/BQ Capitol 2.pdf)
 
+[Capítol 5 - Mecanismes d'emmagatzematge i utilització de la informació genètica](https://542813.github.io/BQ Capitol 5.pdf)
+
 [Capítol 6 - Transport de molècules a través de la membrana](https://542813.github.io/BQ Capitol 6.pdf)
 
 
